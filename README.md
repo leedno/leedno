@@ -25,8 +25,8 @@ I build projects using a modern, keyboard-driven workflow, leveraging **Linux (A
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages & Core** | JavaScript (ES6+), Python, HTML, CSS, Shell Scripting, Data Structures & Algorithms |
-| **Databases & Data** | PostgreSQL, MongoDB (current focus), Pandas & NumPy |
-| **Workflow** | Git (GitHub), Unix/Linux (CLI Proficiency), ETL Processes (Apache Airflow) |
+| **Databases & Data** | PostgreSQL, MongoDB, Pandas & NumPy |
+| **Workflow** | Git (GitHub), Unix/Linux (CLI Proficiency), ETL Processes |
 
 I am currently focusing on mastering **React** to advance my front-end specialization.
 
