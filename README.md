@@ -32,5 +32,4 @@ I am currently focusing on mastering **React** to advance my front-end specializ
 
 ---
 
-* **Full Resume:** [English](https://leon-nordell.vercel.app/resume.html) or [Swedish](https://leon-nordell.vercel.app/resume.html?lang=sv)
 * **LinkedIn:** [linkedin.com/in/leon-nordell/](https://www.linkedin.com/in/leon-nordell/)
