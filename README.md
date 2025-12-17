@@ -2,13 +2,7 @@
 
 **Aspiring Full-Stack Developer | B.Eng. in ICT Student**
 
-I'm a third-year **Information and Communications Technology (ICT) student** at Metropolia University of Applied Sciences, pursuing my degree 100% remotely. My primary focus is on mastering modern web development, which I see as a highly creative field driven by my lifelong passion for complex puzzles.
-
----
-
-### 🌐 My Portfolio & AI Assistant
-
-My portfolio is my primary development showcase. It features a custom AI assistant running on the **Gemini-2.5-Flash-Lite** API, augmented with a private data source (RAG) to provide factual, personalized answers about my background and skills.
+I'm a third-year **Information and Communications Technology (ICT) student** at Metropolia University of Applied Sciences, pursuing my degree 100% remotely. My primary focus is on mastering full stack development, which I see as a highly creative field driven by my lifelong passion for complex puzzles.
 
 ---
 
@@ -20,7 +14,7 @@ My portfolio is my primary development showcase. It features a custom AI assista
 
 ### 💻 Technical Toolkit
 
-I build projects using a modern, keyboard-driven workflow, leveraging **Linux (Arch/Mint)** and **Neovim** as my main development environment.
+I build projects using a keyboard-driven workflow using **Linux (NixOS/Arch)** and **Neovim** as my main development environment.
 
 | Category | Skills & Tools |
 | :--- | :--- |
